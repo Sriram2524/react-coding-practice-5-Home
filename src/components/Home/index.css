@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2b2c49;
+  height:70vh;
+  width:50vw;
+  border-radius: 10px;
+  margin: 50px;
+}
